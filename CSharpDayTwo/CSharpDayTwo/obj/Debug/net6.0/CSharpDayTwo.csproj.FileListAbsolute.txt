@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\bin\Debug\net6.0\CSharpDayTwo.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\bin\Debug\net6.0\CSharpDayTwo.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\bin\Debug\net6.0\CSharpDayTwo.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\bin\Debug\net6.0\CSharpDayTwo.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\bin\Debug\net6.0\CSharpDayTwo.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\refint\CSharpDayTwo.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\CSharpDayTwo.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayTwo\CSharpDayTwo\obj\Debug\net6.0\ref\CSharpDayTwo.dll

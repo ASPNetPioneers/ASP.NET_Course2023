@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\bin\Debug\net7.0\IfElseStatements.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\bin\Debug\net7.0\IfElseStatements.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\bin\Debug\net7.0\IfElseStatements.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\bin\Debug\net7.0\IfElseStatements.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\bin\Debug\net7.0\IfElseStatements.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\refint\IfElseStatements.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\IfElseStatements.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFour\Conditionals\IfElseStatements\obj\Debug\net7.0\ref\IfElseStatements.dll

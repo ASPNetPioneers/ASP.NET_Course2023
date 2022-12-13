@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\Operators\obj\Debug\net7.0\ref\Operators.dll

@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\bin\Debug\net7.0\DataTypeConvert.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\bin\Debug\net7.0\DataTypeConvert.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\bin\Debug\net7.0\DataTypeConvert.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\bin\Debug\net7.0\DataTypeConvert.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\bin\Debug\net7.0\DataTypeConvert.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\refint\DataTypeConvert.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\DataTypeConvert.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayThree\DataTypeConvert\obj\Debug\net7.0\ref\DataTypeConvert.dll
