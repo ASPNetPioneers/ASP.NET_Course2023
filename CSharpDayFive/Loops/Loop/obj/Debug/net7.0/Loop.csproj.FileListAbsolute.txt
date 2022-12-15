@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\bin\Debug\net7.0\Loop.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\bin\Debug\net7.0\Loop.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\bin\Debug\net7.0\Loop.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\bin\Debug\net7.0\Loop.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\bin\Debug\net7.0\Loop.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\refint\Loop.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\Loop.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Loops\Loop\obj\Debug\net7.0\ref\Loop.dll

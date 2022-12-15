@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFour\\Conditionals\\SwitchStatements\\SwitchStatements.csproj": {}
+    "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFive\\Loops\\Loop\\Loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFour\\Conditionals\\SwitchStatements\\SwitchStatements.csproj": {
+    "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFive\\Loops\\Loop\\Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFour\\Conditionals\\SwitchStatements\\SwitchStatements.csproj",
-        "projectName": "SwitchStatements",
-        "projectPath": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFour\\Conditionals\\SwitchStatements\\SwitchStatements.csproj",
+        "projectUniqueName": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFive\\Loops\\Loop\\Loop.csproj",
+        "projectName": "Loop",
+        "projectPath": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFive\\Loops\\Loop\\Loop.csproj",
         "packagesPath": "C:\\Users\\LAB-1B-PC10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFour\\Conditionals\\SwitchStatements\\obj\\",
+        "outputPath": "C:\\Users\\LAB-1B-PC10\\source\\repos\\Tareq\\CSharpDayFive\\Loops\\Loop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

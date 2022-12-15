@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDayFive\Methods\Methods\obj\Debug\net7.0\ref\Methods.dll
