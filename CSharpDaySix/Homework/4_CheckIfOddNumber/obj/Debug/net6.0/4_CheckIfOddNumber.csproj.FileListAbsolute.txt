@@ -1,0 +1,15 @@
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\bin\Debug\net6.0\4_CheckIfOddNumber.exe
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\bin\Debug\net6.0\4_CheckIfOddNumber.deps.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\bin\Debug\net6.0\4_CheckIfOddNumber.runtimeconfig.json
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\bin\Debug\net6.0\4_CheckIfOddNumber.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\bin\Debug\net6.0\4_CheckIfOddNumber.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.csproj.AssemblyReference.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.AssemblyInfoInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.AssemblyInfo.cs
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.csproj.CoreCompileInputs.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\refint\4_CheckIfOddNumber.dll
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.pdb
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\4_CheckIfOddNumber.genruntimeconfig.cache
+C:\Users\LAB-1B-PC10\source\repos\Tareq\CSharpDaySix\Homework\4_CheckIfOddNumber\obj\Debug\net6.0\ref\4_CheckIfOddNumber.dll
