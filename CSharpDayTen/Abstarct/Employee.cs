@@ -1,6 +1,8 @@
 ﻿namespace Abstarct
 {
-    internal class Employee
+    internal abstract class Employee
     {
+        public abstract void ShowInfo();   // abstract
+
     }
 }

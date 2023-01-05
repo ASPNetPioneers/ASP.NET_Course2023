@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\bin\Debug\net7.0\Enumenations.exe
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\bin\Debug\net7.0\Enumenations.deps.json
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\bin\Debug\net7.0\Enumenations.runtimeconfig.json
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\bin\Debug\net7.0\Enumenations.dll
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\bin\Debug\net7.0\Enumenations.pdb
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.AssemblyInfo.cs
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.dll
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\refint\Enumenations.dll
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.pdb
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\Enumenations.genruntimeconfig.cache
+E:\web\ASP_NET\Pioneers\ASP.NET_Course2023\CSharpDay11\Enumenations\obj\Debug\net7.0\ref\Enumenations.dll
